@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 #
 # Funny Ruby-Bot for the programming contest from Linux-Magazin 09/10
-# THX an Ofr für das RubyBot-Scaffold.
+# THX to Ofr for the RubyBot-Scaffold.
 # Ruby Version 1.8.7
 #
 #
